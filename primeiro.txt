@@ -1,0 +1,5 @@
+mkdir -p teste
+cd teste
+git init
+touch primeiro.txt
+notepad primeiro.txt
