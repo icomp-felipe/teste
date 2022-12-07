@@ -1,5 +1,1 @@
-mkdir -p teste
-cd teste
-git init
-touch primeiro.txt
-notepad primeiro.txt
+oi, eu sou a segunda versao do arquivo!
